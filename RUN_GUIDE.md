@@ -1,15 +1,11 @@
-Here's a shorter, cleaner README that still includes everything needed to run the project.
-
----
-
-# XOR Cipher Project
+#XOR-encryption-and-decryption-in-SystemVerilog
 
 This project implements an **8-bit XOR Cipher (Key = `11000011`)** in both **Python** and **SystemVerilog**. The Python version is used as a reference, while the SystemVerilog implementation is verified against it.
 
 ## Project Structure
 
 ```text
-xor_project/
+XOR-encryption-and-decryption-in-SystemVerilog/
 ├── rtl/        # RTL design
 ├── tb/         # Testbenches
 ├── scripts/    # Python scripts and utilities
