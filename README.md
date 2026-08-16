@@ -11,7 +11,7 @@ XOR-encryption-and-decryption-in-SystemVerilog/
 ├── scripts/    # Python scripts and utilities
 ├── data/       # Input files
 ├── outputs/    # Generated simulation results
-└── RUN_GUIDE.md
+
 ```
 
 ## Requirements
